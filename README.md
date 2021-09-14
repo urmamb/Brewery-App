@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](https://ibb.co/mDWGp8s "Optional title")
+![Alt text](https://i.ibb.co/h7zy0f5/Screenshot-1631609599.png "Main screen")
 
-![Alt text](https://ibb.co/ynCdRVp "Optional title")
+![Alt text](https://i.ibb.co/gM8m76d/Screenshot-1631609631.png "Detail screen")
 
